@@ -18,10 +18,38 @@ npm config set cache "D:\node\node-cache"```
 
 ## 操作实例
 
+**one 入门**
+
 - helloworld.js     第一个程序
 - app.js            建立HTTP服务器
 - file.txt          读取文件异步同步编程及回调函数
- - readfile.js
- - readfilesync.js
- - readfilecallback.js
+  - readfile.js
+  - readfilesync.js
+  - readfilecallback.js
 - event.js          事件编程
+
+**two 创建及加载模块 创建包**
+
+- module.js         创建模块及加载模块
+ - getmodeule.js
+ - loadmodule.js
+ - singleobject.js
+ - hello.js
+ - gethello.js
+- somepackage        创建包
+ - index.js
+ - getpackage.js
+ - package.json
+
+### 包管理器npm
+
+安装包（有参数-g为全局模式）
+
+npm [install/i] -g [package_name]
+
+**调试**
+
+
+
+
+ 
