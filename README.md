@@ -39,7 +39,8 @@
 - somepackage        创建包
  - index.js
  - getpackage.js
- - package.json
+ - //lib/package.json
+ - //lib/interface.js
 
 ### 包管理器npm
 
